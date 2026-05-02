@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from flask import Blueprint, jsonify, request
 
-from services.quiz_service import QuizService
+from backend.services.quiz_service import QuizService
 
 quiz_bp = Blueprint("quiz", __name__)
 quiz_service = QuizService()
