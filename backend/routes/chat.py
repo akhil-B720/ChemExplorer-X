@@ -4,7 +4,7 @@ import json
 
 from flask import Blueprint, Response, current_app, jsonify, request, stream_with_context
 
-from services.ai_service import AIService
+from backend.services.ai_service import AIService
 
 chat_bp = Blueprint("chat", __name__)
 

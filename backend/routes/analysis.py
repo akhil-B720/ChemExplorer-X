@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from flask import Blueprint, jsonify, request
 
-from services.molecule_service import MoleculeService
+from backend.services.molecule_service import MoleculeService
 
 analysis_bp = Blueprint("analysis", __name__)
 molecule_service = MoleculeService()
