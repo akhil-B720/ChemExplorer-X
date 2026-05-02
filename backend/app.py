@@ -27,17 +27,22 @@ def create_app() -> Flask:
     app.register_blueprint(chat_bp, url_prefix="/api")
     app.register_blueprint(quiz_bp, url_prefix="/api")
 
-    @app.get("/")
-    def index():
-        return send_from_directory(frontend_dir, "index.html")
+    
+@app.get("/")
+def index():
+    return send_from_directory(frontend_dir, "index.html")
 
-    @app.get("/dashboard")
-    def dashboard():
-        return send_from_directory(frontend_dir, "dashboard.html")
+@app.route('/<path:filename>')
+def static_files(filename):
+    return send_from_directory(frontend_dir, filename)
 
-    @app.get("/health")
-    def health():
-        return jsonify({"status": "ok"})
+@app.get("/dashboard")
+def dashboard():
+    return send_from_directory(frontend_dir, "dashboard.html")
+
+@app.get("/health")
+def health():
+    return jsonify({"status": "ok"})
 
     return app
 
