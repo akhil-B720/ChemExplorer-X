@@ -1,32 +1,55 @@
-from flask import Blueprint, request, jsonify
-from backend.services.pubchem_service import PubChemService
+from __future__ import annotations
 
-analysis_bp = Blueprint("analysis", __name__)
+import os
+import sys
+from pathlib import Path
 
-@analysis_bp.route("/analyze", methods=["POST"])
-def analyze():
-    try:
-        data = request.get_json()
-        print("DEBUG INPUT:", data)
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+root_str = str(_REPO_ROOT)
+if root_str not in sys.path:
+    sys.path.insert(0, root_str)
 
-        if not data:
-            return jsonify({"error": "No JSON received"}), 400
+from flask import Flask, jsonify, send_from_directory
 
-        query = data.get("query") or data.get("smiles") or data.get("compound")
+from backend.routes.analysis import analysis_bp
+from backend.routes.chat import chat_bp
+from backend.routes.quiz import quiz_bp
 
-        if not query:
-            return jsonify({"error": "No query provided"}), 400
 
-        service = PubChemService()
-        result = service.fetch_by_name(query)
+def create_app() -> Flask:
+    app = Flask(__name__, static_folder="../frontend", static_url_path="/")
+    app.config["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY", "")
+    app.config["ANTHROPIC_API_KEY"] = os.getenv("ANTHROPIC_API_KEY", "")
 
-        print("DEBUG RESULT:", result)
+    app.register_blueprint(analysis_bp, url_prefix="/api")
+    app.register_blueprint(chat_bp, url_prefix="/api")
+    app.register_blueprint(quiz_bp, url_prefix="/api")
 
-        if not result:
-            return jsonify({"error": "Molecule not found"}), 400
+    @app.get("/api/health")
+    def healthcheck():
+        return jsonify({"ok": True})
 
-        return jsonify(result)
+    @app.get("/api/tutor-status")
+    def tutor_status():
+        return jsonify(
+            {
+                "ok": True,
+                "openai_configured": bool(app.config.get("OPENAI_API_KEY")),
+                "anthropic_configured": bool(app.config.get("ANTHROPIC_API_KEY")),
+            }
+        )
 
-    except Exception as e:
-        print("ERROR:", str(e))
-        return jsonify({"error": str(e)}), 500
+    @app.get("/")
+    def serve_index():
+        if os.path.exists(os.path.join(app.static_folder or "", "index.html")):
+            return send_from_directory(app.static_folder, "index.html")
+        return jsonify({"message": "Chem Explorer H API is running."})
+
+    return app
+
+
+app = create_app()
+
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000, debug=True)

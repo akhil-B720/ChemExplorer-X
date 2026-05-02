@@ -14,12 +14,14 @@ class PubChemService:
     def fetch_by_name(self, query: str) -> dict | None:
         url = (
             f"{self.BASE}/compound/name/{quote_plus(query)}/property/"
-            "MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,XLogP/"
-            "JSON"
+            "MolecularFormula,MolecularWeight,IUPACName,CanonicalSMILES,IsomericSMILES/JSON"
         )
-        response = requests.get(url, timeout=self.timeout)
-        if response.status_code != 200:
+        try:
+            response = requests.get(url, timeout=self.timeout)
+            if response.status_code != 200:
+                return None
+            payload = response.json()
+            properties = payload.get("PropertyTable", {}).get("Properties", [])
+            return properties[0] if properties else None
+        except Exception:
             return None
-        payload = response.json()
-        properties = payload.get("PropertyTable", {}).get("Properties", [])
-        return properties[0] if properties else None

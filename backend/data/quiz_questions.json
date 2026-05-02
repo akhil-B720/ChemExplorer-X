@@ -1,1 +1,5042 @@
-[]
+[
+  {
+    "id": "q-4",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Choose the correct statement. [Topic: Chemical Bonding] [Set: 4]",
+    "options": [
+      "tetrahedral",
+      "bent",
+      "linear",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-30",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Which option is accurate? [Topic: Atomic Structure] [Set: 30]",
+    "options": [
+      "protons",
+      "electrons",
+      "neutrons",
+      "charge"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-72",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Identify the correct option. [Topic: Organic Basics] [Set: 72]",
+    "options": [
+      "arenes",
+      "alkanes",
+      "alkynes",
+      "alkenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-308",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 68]",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-185",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Choose the correct statement. [Topic: Thermodynamics] [Set: 65]",
+    "options": [
+      "delta G > 0",
+      "delta H > 0 only",
+      "delta S < 0 only",
+      "delta G < 0"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-55",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Choose the correct statement. [Topic: Atomic Structure] [Set: 55]",
+    "options": [
+      "s",
+      "m",
+      "l",
+      "n"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-103",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 103]",
+    "options": [
+      "planar",
+      "linear",
+      "tetrahedral",
+      "bent"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-297",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Select the best answer. [Topic: Reaction Mechanisms] [Set: 57]",
+    "options": [
+      "E2",
+      "SN2",
+      "SN1",
+      "addition"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-15",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Choose the correct statement. [Topic: Chemical Bonding] [Set: 15]",
+    "options": [
+      "C-H",
+      "Cl-Cl",
+      "N-H",
+      "O-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-253",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 13]",
+    "options": [
+      "+3",
+      "+4",
+      "+1",
+      "+2"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-190",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Select the best answer. [Topic: Stereochemistry] [Set: 70]",
+    "options": [
+      "four different groups",
+      "double bond",
+      "ring only",
+      "charge"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-178",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Choose the correct statement. [Topic: Equilibrium] [Set: 58]",
+    "options": [
+      "neither",
+      "products",
+      "reactants",
+      "solvent"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-182",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Select the best answer. [Topic: Stereochemistry] [Set: 62]",
+    "options": [
+      "random directions",
+      "opposite directions",
+      "same direction",
+      "no rotation"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-219",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Which option is accurate? [Topic: Stereochemistry] [Set: 99]",
+    "options": [
+      "Aufbau",
+      "VSEPR",
+      "CIP rules",
+      "octet rule"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-273",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 33]",
+    "options": [
+      "acidity",
+      "bond length",
+      "complex stability",
+      "volatility"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-144",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Choose the correct statement. [Topic: Equilibrium] [Set: 24]",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-262",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Identify the correct option. [Topic: Coordination Chemistry] [Set: 22]",
+    "options": [
+      "+4",
+      "+2",
+      "+3",
+      "+1"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-336",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Select the best answer. [Topic: Coordination Chemistry] [Set: 96]",
+    "options": [
+      "complex stability",
+      "acidity",
+      "volatility",
+      "bond length"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-161",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Identify the correct option. [Topic: Equilibrium] [Set: 41]",
+    "options": [
+      "left",
+      "right",
+      "none",
+      "irreversible"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-327",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 87]",
+    "options": [
+      "acidity",
+      "bond length",
+      "volatility",
+      "complex stability"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-76",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 76]",
+    "options": [
+      "linear",
+      "tetrahedral",
+      "bent",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-139",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Select the best answer. [Topic: Thermodynamics] [Set: 19]",
+    "options": [
+      "delta U",
+      "delta S",
+      "delta G",
+      "delta H"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-143",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Which option is accurate? [Topic: Equilibrium] [Set: 23]",
+    "options": [
+      "irreversible",
+      "right",
+      "none",
+      "left"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-344",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Identify the correct option. [Topic: Coordination Chemistry] [Set: 104]",
+    "options": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-267",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Select the best answer. [Topic: Advanced Physical] [Set: 27]",
+    "options": [
+      "two-thirds",
+      "unchanged",
+      "one-half",
+      "one-fourth"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-255",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Which option is accurate? [Topic: Coordination Chemistry] [Set: 15]",
+    "options": [
+      "complex stability",
+      "acidity",
+      "volatility",
+      "bond length"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-114",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Which option is accurate? [Topic: Chemical Bonding] [Set: 114]",
+    "options": [
+      "C-H",
+      "O-H",
+      "Cl-Cl",
+      "N-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-69",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Choose the correct statement. [Topic: Chemical Bonding] [Set: 69]",
+    "options": [
+      "N-H",
+      "O-H",
+      "C-H",
+      "Cl-Cl"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-54",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Which option is accurate? [Topic: Organic Basics] [Set: 54]",
+    "options": [
+      "alkanes",
+      "alkenes",
+      "arenes",
+      "alkynes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-229",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 109]",
+    "options": [
+      "delta S",
+      "delta H",
+      "delta G",
+      "delta U"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-324",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Identify the correct option. [Topic: Reaction Mechanisms] [Set: 84]",
+    "options": [
+      "SN1",
+      "E2",
+      "addition",
+      "SN2"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-123",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Select the best answer. [Topic: Thermodynamics] [Set: 3]",
+    "options": [
+      "J/mol K",
+      "J",
+      "J/mol",
+      "KJ/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-163",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Which option is accurate? [Topic: Stereochemistry] [Set: 43]",
+    "options": [
+      "double bond",
+      "charge",
+      "four different groups",
+      "ring only"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-312",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Identify the correct option. [Topic: Advanced Physical] [Set: 72]",
+    "options": [
+      "one-half",
+      "unchanged",
+      "two-thirds",
+      "one-fourth"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-348",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Which option is accurate? [Topic: Advanced Physical] [Set: 108]",
+    "options": [
+      "one-fourth",
+      "one-half",
+      "unchanged",
+      "two-thirds"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-11",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Which option is accurate? [Topic: Atomic Structure] [Set: 11]",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "6"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-314",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 74]",
+    "options": [
+      "SN1",
+      "SN2",
+      "E1",
+      "carbocation rearrangement"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-154",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Identify the correct option. [Topic: Stereochemistry] [Set: 34]",
+    "options": [
+      "ring only",
+      "charge",
+      "four different groups",
+      "double bond"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-272",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 32]",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-241",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Select the best answer. [Topic: Reaction Mechanisms] [Set: 1]",
+    "options": [
+      "substrate only",
+      "temperature only",
+      "nucleophile only",
+      "both equally"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-64",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Which option is accurate? [Topic: Atomic Structure] [Set: 64]",
+    "options": [
+      "n",
+      "s",
+      "m",
+      "l"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-264",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 24]",
+    "options": [
+      "bond length",
+      "volatility",
+      "complex stability",
+      "acidity"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-247",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Which option is accurate? [Topic: Advanced Physical] [Set: 7]",
+    "options": [
+      "s-1",
+      "dimensionless",
+      "L mol-1 s-1",
+      "mol L-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-271",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Select the best answer. [Topic: Coordination Chemistry] [Set: 31]",
+    "options": [
+      "+1",
+      "+3",
+      "+2",
+      "+4"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-19",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Select the best answer. [Topic: Atomic Structure] [Set: 19]",
+    "options": [
+      "n",
+      "s",
+      "l",
+      "m"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-279",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 39]",
+    "options": [
+      "E2",
+      "SN2",
+      "addition",
+      "SN1"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-323",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Select the best answer. [Topic: Reaction Mechanisms] [Set: 83]",
+    "options": [
+      "SN1",
+      "carbocation rearrangement",
+      "SN2",
+      "E1"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-295",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 55]",
+    "options": [
+      "temperature only",
+      "nucleophile only",
+      "substrate only",
+      "both equally"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-222",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Which option is accurate? [Topic: Thermodynamics] [Set: 102]",
+    "options": [
+      "J/mol K",
+      "J",
+      "J/mol",
+      "KJ/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-339",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Choose the correct statement. [Topic: Advanced Physical] [Set: 99]",
+    "options": [
+      "one-fourth",
+      "one-half",
+      "unchanged",
+      "two-thirds"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-28",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Choose the correct statement. [Topic: Atomic Structure] [Set: 28]",
+    "options": [
+      "m",
+      "l",
+      "s",
+      "n"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-359",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Identify the correct option. [Topic: Reaction Mechanisms] [Set: 119]",
+    "options": [
+      "SN2",
+      "SN1",
+      "carbocation rearrangement",
+      "E1"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-203",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Identify the correct option. [Topic: Thermodynamics] [Set: 83]",
+    "options": [
+      "delta G < 0",
+      "delta H > 0 only",
+      "delta S < 0 only",
+      "delta G > 0"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-189",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: For JEE/BITSAT prep, pick the right concept. [Topic: Equilibrium] [Set: 69]",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-117",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Select the best answer. [Topic: Organic Basics] [Set: 117]",
+    "options": [
+      "alkenes",
+      "alkanes",
+      "alkynes",
+      "arenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-316",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Which option is accurate? [Topic: Coordination Chemistry] [Set: 76]",
+    "options": [
+      "+2",
+      "+1",
+      "+4",
+      "+3"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-300",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 60]",
+    "options": [
+      "bond length",
+      "acidity",
+      "complex stability",
+      "volatility"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-111",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Which option is accurate? [Topic: Atomic Structure] [Set: 111]",
+    "options": [
+      "electrons",
+      "protons",
+      "neutrons",
+      "charge"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-328",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Which option is accurate? [Topic: Advanced Physical] [Set: 88]",
+    "options": [
+      "dimensionless",
+      "mol L-1 s-1",
+      "s-1",
+      "L mol-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-240",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Which option is accurate? [Topic: Thermodynamics] [Set: 120]",
+    "options": [
+      "J/mol K",
+      "KJ/mol",
+      "J/mol",
+      "J"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-160",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Which option is accurate? [Topic: Equilibrium] [Set: 40]",
+    "options": [
+      "solvent",
+      "reactants",
+      "neither",
+      "products"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-239",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 119]",
+    "options": [
+      "delta G < 0",
+      "delta G > 0",
+      "delta H > 0 only",
+      "delta S < 0 only"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-63",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Which option is accurate? [Topic: Organic Basics] [Set: 63]",
+    "options": [
+      "arenes",
+      "alkynes",
+      "alkanes",
+      "alkenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-104",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Which option is accurate? [Topic: Chemical Bonding] [Set: 104]",
+    "options": [
+      "109.5 deg",
+      "90 deg",
+      "120 deg",
+      "104.5 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-246",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 6]",
+    "options": [
+      "complex stability",
+      "acidity",
+      "volatility",
+      "bond length"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-204",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Select the best answer. [Topic: Thermodynamics] [Set: 84]",
+    "options": [
+      "J",
+      "KJ/mol",
+      "J/mol",
+      "J/mol K"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-343",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 103]",
+    "options": [
+      "+1",
+      "+4",
+      "+3",
+      "+2"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-170",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Which option is accurate? [Topic: Equilibrium] [Set: 50]",
+    "options": [
+      "irreversible",
+      "left",
+      "none",
+      "right"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-332",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Which option is accurate? [Topic: Reaction Mechanisms] [Set: 92]",
+    "options": [
+      "SN1",
+      "E1",
+      "carbocation rearrangement",
+      "SN2"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-16",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Identify the correct option. [Topic: Organic Basics] [Set: 16]",
+    "options": [
+      "ester",
+      "amine",
+      "alcohol",
+      "ketone"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-35",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 35]",
+    "options": [
+      "-one",
+      "-al",
+      "-ol",
+      "-oic acid"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-223",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Choose the correct statement. [Topic: Equilibrium] [Set: 103]",
+    "options": [
+      "neither",
+      "products",
+      "reactants",
+      "solvent"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-250",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Select the best answer. [Topic: Reaction Mechanisms] [Set: 10]",
+    "options": [
+      "nucleophile only",
+      "substrate only",
+      "both equally",
+      "temperature only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-106",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Which option is accurate? [Topic: Organic Basics] [Set: 106]",
+    "options": [
+      "amine",
+      "ester",
+      "alcohol",
+      "ketone"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-242",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Which option is accurate? [Topic: Reaction Mechanisms] [Set: 2]",
+    "options": [
+      "SN1",
+      "carbocation rearrangement",
+      "E1",
+      "SN2"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-25",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Select the best answer. [Topic: Organic Basics] [Set: 25]",
+    "options": [
+      "ketone",
+      "amine",
+      "ester",
+      "alcohol"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-236",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Select the best answer. [Topic: Stereochemistry] [Set: 116]",
+    "options": [
+      "random directions",
+      "same direction",
+      "opposite directions",
+      "no rotation"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-125",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Select the best answer. [Topic: Equilibrium] [Set: 5]",
+    "options": [
+      "left",
+      "irreversible",
+      "none",
+      "right"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-162",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Which option is accurate? [Topic: Equilibrium] [Set: 42]",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-105",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 105]",
+    "options": [
+      "O-H",
+      "Cl-Cl",
+      "N-H",
+      "C-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-51",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Select the best answer. [Topic: Chemical Bonding] [Set: 51]",
+    "options": [
+      "N-H",
+      "C-H",
+      "Cl-Cl",
+      "O-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-319",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Which option is accurate? [Topic: Advanced Physical] [Set: 79]",
+    "options": [
+      "L mol-1 s-1",
+      "dimensionless",
+      "s-1",
+      "mol L-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-277",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 37]",
+    "options": [
+      "nucleophile only",
+      "both equally",
+      "substrate only",
+      "temperature only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-41",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Which option is accurate? [Topic: Chemical Bonding] [Set: 41]",
+    "options": [
+      "109.5 deg",
+      "90 deg",
+      "104.5 deg",
+      "120 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-87",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Which option is accurate? [Topic: Chemical Bonding] [Set: 87]",
+    "options": [
+      "O-H",
+      "C-H",
+      "N-H",
+      "Cl-Cl"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-216",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Which option is accurate? [Topic: Equilibrium] [Set: 96]",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-168",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Identify the correct option. [Topic: Thermodynamics] [Set: 48]",
+    "options": [
+      "J/mol K",
+      "J",
+      "KJ/mol",
+      "J/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-188",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Choose the correct statement. [Topic: Equilibrium] [Set: 68]",
+    "options": [
+      "right",
+      "left",
+      "irreversible",
+      "none"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-184",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Select the best answer. [Topic: Thermodynamics] [Set: 64]",
+    "options": [
+      "delta H",
+      "delta U",
+      "delta G",
+      "delta S"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-151",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Which option is accurate? [Topic: Equilibrium] [Set: 31]",
+    "options": [
+      "neither",
+      "products",
+      "reactants",
+      "solvent"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-59",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Choose the correct statement. [Topic: Chemical Bonding] [Set: 59]",
+    "options": [
+      "104.5 deg",
+      "120 deg",
+      "90 deg",
+      "109.5 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-92",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Choose the correct statement. [Topic: Atomic Structure] [Set: 92]",
+    "options": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-256",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Which option is accurate? [Topic: Advanced Physical] [Set: 16]",
+    "options": [
+      "mol L-1 s-1",
+      "dimensionless",
+      "L mol-1 s-1",
+      "s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-157",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Identify the correct option. [Topic: Thermodynamics] [Set: 37]",
+    "options": [
+      "delta H",
+      "delta G",
+      "delta U",
+      "delta S"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-205",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Choose the correct statement. [Topic: Equilibrium] [Set: 85]",
+    "options": [
+      "reactants",
+      "solvent",
+      "neither",
+      "products"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-338",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Identify the correct option. [Topic: Advanced Physical] [Set: 98]",
+    "options": [
+      "-Ea/R",
+      "Ea/R",
+      "-R/Ea",
+      "R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-220",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 100]",
+    "options": [
+      "delta H",
+      "delta U",
+      "delta S",
+      "delta G"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-202",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Choose the correct statement. [Topic: Thermodynamics] [Set: 82]",
+    "options": [
+      "delta G",
+      "delta H",
+      "delta U",
+      "delta S"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-60",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 60]",
+    "options": [
+      "N-H",
+      "O-H",
+      "Cl-Cl",
+      "C-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-88",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Choose the correct statement. [Topic: Organic Basics] [Set: 88]",
+    "options": [
+      "alcohol",
+      "amine",
+      "ester",
+      "ketone"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-153",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Select the best answer. [Topic: Equilibrium] [Set: 33]",
+    "options": [
+      "6",
+      "7",
+      "5",
+      "8"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-263",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Select the best answer. [Topic: Coordination Chemistry] [Set: 23]",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-83",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Select the best answer. [Topic: Atomic Structure] [Set: 83]",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-357",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Which option is accurate? [Topic: Advanced Physical] [Set: 117]",
+    "options": [
+      "one-fourth",
+      "unchanged",
+      "one-half",
+      "two-thirds"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-340",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Select the best answer. [Topic: Reaction Mechanisms] [Set: 100]",
+    "options": [
+      "temperature only",
+      "nucleophile only",
+      "substrate only",
+      "both equally"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-274",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Identify the correct option. [Topic: Advanced Physical] [Set: 34]",
+    "options": [
+      "mol L-1 s-1",
+      "L mol-1 s-1",
+      "s-1",
+      "dimensionless"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-150",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 30]",
+    "options": [
+      "J/mol",
+      "J/mol K",
+      "KJ/mol",
+      "J"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-166",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Choose the correct statement. [Topic: Thermodynamics] [Set: 46]",
+    "options": [
+      "delta U",
+      "delta H",
+      "delta S",
+      "delta G"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-43",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 43]",
+    "options": [
+      "amine",
+      "ketone",
+      "alcohol",
+      "ester"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-347",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Which option is accurate? [Topic: Advanced Physical] [Set: 107]",
+    "options": [
+      "-Ea/R",
+      "Ea/R",
+      "R/Ea",
+      "-R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-245",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Select the best answer. [Topic: Coordination Chemistry] [Set: 5]",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-258",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Which option is accurate? [Topic: Advanced Physical] [Set: 18]",
+    "options": [
+      "unchanged",
+      "one-half",
+      "one-fourth",
+      "two-thirds"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-194",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 74]",
+    "options": [
+      "delta G < 0",
+      "delta H > 0 only",
+      "delta G > 0",
+      "delta S < 0 only"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-322",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 82]",
+    "options": [
+      "substrate only",
+      "nucleophile only",
+      "both equally",
+      "temperature only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-81",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Choose the correct statement. [Topic: Organic Basics] [Set: 81]",
+    "options": [
+      "alkynes",
+      "alkenes",
+      "alkanes",
+      "arenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-265",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Which option is accurate? [Topic: Advanced Physical] [Set: 25]",
+    "options": [
+      "dimensionless",
+      "s-1",
+      "L mol-1 s-1",
+      "mol L-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-94",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Choose the correct statement. [Topic: Chemical Bonding] [Set: 94]",
+    "options": [
+      "linear",
+      "bent",
+      "planar",
+      "tetrahedral"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-31",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 31]",
+    "options": [
+      "bent",
+      "linear",
+      "tetrahedral",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-45",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 45]",
+    "options": [
+      "arenes",
+      "alkanes",
+      "alkenes",
+      "alkynes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-9",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Choose the correct statement. [Topic: Organic Basics] [Set: 9]",
+    "options": [
+      "alkanes",
+      "arenes",
+      "alkynes",
+      "alkenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-101",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Choose the correct statement. [Topic: Atomic Structure] [Set: 101]",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-46",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Select the best answer. [Topic: Atomic Structure] [Set: 46]",
+    "options": [
+      "l",
+      "s",
+      "m",
+      "n"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-3",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: For JEE/BITSAT prep, pick the right concept. [Topic: Atomic Structure] [Set: 3]",
+    "options": [
+      "neutrons",
+      "charge",
+      "protons",
+      "electrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-192",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: For JEE/BITSAT prep, pick the right concept. [Topic: Stereochemistry] [Set: 72]",
+    "options": [
+      "octet rule",
+      "VSEPR",
+      "Aufbau",
+      "CIP rules"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-33",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Select the best answer. [Topic: Chemical Bonding] [Set: 33]",
+    "options": [
+      "Cl-Cl",
+      "C-H",
+      "O-H",
+      "N-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-140",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Choose the correct statement. [Topic: Thermodynamics] [Set: 20]",
+    "options": [
+      "delta G > 0",
+      "delta S < 0 only",
+      "delta H > 0 only",
+      "delta G < 0"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-126",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: For JEE/BITSAT prep, pick the right concept. [Topic: Equilibrium] [Set: 6]",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-131",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Identify the correct option. [Topic: Thermodynamics] [Set: 11]",
+    "options": [
+      "delta H > 0 only",
+      "delta G < 0",
+      "delta G > 0",
+      "delta S < 0 only"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-12",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Choose the correct statement. [Topic: Atomic Structure] [Set: 12]",
+    "options": [
+      "protons",
+      "electrons",
+      "neutrons",
+      "charge"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-177",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Choose the correct statement. [Topic: Thermodynamics] [Set: 57]",
+    "options": [
+      "J/mol",
+      "J",
+      "J/mol K",
+      "KJ/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-100",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Identify the correct option. [Topic: Atomic Structure] [Set: 100]",
+    "options": [
+      "n",
+      "s",
+      "l",
+      "m"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-6",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Which option is accurate? [Topic: Chemical Bonding] [Set: 6]",
+    "options": [
+      "O-H",
+      "C-H",
+      "N-H",
+      "Cl-Cl"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-134",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Identify the correct option. [Topic: Equilibrium] [Set: 14]",
+    "options": [
+      "left",
+      "none",
+      "irreversible",
+      "right"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-345",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Identify the correct option. [Topic: Coordination Chemistry] [Set: 105]",
+    "options": [
+      "acidity",
+      "bond length",
+      "complex stability",
+      "volatility"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-276",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Choose the correct statement. [Topic: Advanced Physical] [Set: 36]",
+    "options": [
+      "one-fourth",
+      "one-half",
+      "two-thirds",
+      "unchanged"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-18",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 18]",
+    "options": [
+      "alkynes",
+      "alkanes",
+      "alkenes",
+      "arenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-266",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Choose the correct statement. [Topic: Advanced Physical] [Set: 26]",
+    "options": [
+      "Ea/R",
+      "-R/Ea",
+      "R/Ea",
+      "-Ea/R"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-135",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Choose the correct statement. [Topic: Equilibrium] [Set: 15]",
+    "options": [
+      "8",
+      "6",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-213",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Choose the correct statement. [Topic: Thermodynamics] [Set: 93]",
+    "options": [
+      "J",
+      "KJ/mol",
+      "J/mol",
+      "J/mol K"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-292",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Select the best answer. [Topic: Advanced Physical] [Set: 52]",
+    "options": [
+      "L mol-1 s-1",
+      "mol L-1 s-1",
+      "s-1",
+      "dimensionless"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-354",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Select the best answer. [Topic: Coordination Chemistry] [Set: 114]",
+    "options": [
+      "volatility",
+      "bond length",
+      "acidity",
+      "complex stability"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-149",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Choose the correct statement. [Topic: Thermodynamics] [Set: 29]",
+    "options": [
+      "delta G < 0",
+      "delta H > 0 only",
+      "delta S < 0 only",
+      "delta G > 0"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-91",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Choose the correct statement. [Topic: Atomic Structure] [Set: 91]",
+    "options": [
+      "s",
+      "l",
+      "n",
+      "m"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-1",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Choose the correct statement. [Topic: Atomic Structure] [Set: 1]",
+    "options": [
+      "s",
+      "l",
+      "m",
+      "n"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-352",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 112]",
+    "options": [
+      "+4",
+      "+2",
+      "+3",
+      "+1"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-75",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Which option is accurate? [Topic: Atomic Structure] [Set: 75]",
+    "options": [
+      "neutrons",
+      "electrons",
+      "protons",
+      "charge"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-37",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Which option is accurate? [Topic: Atomic Structure] [Set: 37]",
+    "options": [
+      "m",
+      "s",
+      "l",
+      "n"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-283",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: For JEE/BITSAT prep, pick the right concept. [Topic: Advanced Physical] [Set: 43]",
+    "options": [
+      "s-1",
+      "mol L-1 s-1",
+      "dimensionless",
+      "L mol-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-148",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Identify the correct option. [Topic: Thermodynamics] [Set: 28]",
+    "options": [
+      "delta H",
+      "delta G",
+      "delta S",
+      "delta U"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-251",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Select the best answer. [Topic: Reaction Mechanisms] [Set: 11]",
+    "options": [
+      "E1",
+      "carbocation rearrangement",
+      "SN1",
+      "SN2"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-317",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Identify the correct option. [Topic: Coordination Chemistry] [Set: 77]",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-138",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Which option is accurate? [Topic: Stereochemistry] [Set: 18]",
+    "options": [
+      "VSEPR",
+      "octet rule",
+      "Aufbau",
+      "CIP rules"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-128",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Identify the correct option. [Topic: Stereochemistry] [Set: 8]",
+    "options": [
+      "random directions",
+      "no rotation",
+      "same direction",
+      "opposite directions"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-164",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Select the best answer. [Topic: Stereochemistry] [Set: 44]",
+    "options": [
+      "random directions",
+      "no rotation",
+      "same direction",
+      "opposite directions"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-17",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Select the best answer. [Topic: Organic Basics] [Set: 17]",
+    "options": [
+      "-al",
+      "-ol",
+      "-one",
+      "-oic acid"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-118",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Select the best answer. [Topic: Atomic Structure] [Set: 118]",
+    "options": [
+      "l",
+      "m",
+      "s",
+      "n"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-233",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Select the best answer. [Topic: Equilibrium] [Set: 113]",
+    "options": [
+      "left",
+      "irreversible",
+      "right",
+      "none"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-254",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Identify the correct option. [Topic: Coordination Chemistry] [Set: 14]",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-13",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 13]",
+    "options": [
+      "tetrahedral",
+      "bent",
+      "linear",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-215",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Identify the correct option. [Topic: Equilibrium] [Set: 95]",
+    "options": [
+      "left",
+      "irreversible",
+      "right",
+      "none"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-342",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 102]",
+    "options": [
+      "addition",
+      "SN2",
+      "E2",
+      "SN1"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-195",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Select the best answer. [Topic: Thermodynamics] [Set: 75]",
+    "options": [
+      "J/mol",
+      "J",
+      "J/mol K",
+      "KJ/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-181",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Select the best answer. [Topic: Stereochemistry] [Set: 61]",
+    "options": [
+      "charge",
+      "double bond",
+      "four different groups",
+      "ring only"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-29",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Which option is accurate? [Topic: Atomic Structure] [Set: 29]",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "6"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-109",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Which option is accurate? [Topic: Atomic Structure] [Set: 109]",
+    "options": [
+      "n",
+      "s",
+      "l",
+      "m"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-234",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Identify the correct option. [Topic: Equilibrium] [Set: 114]",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "7"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-156",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Select the best answer. [Topic: Stereochemistry] [Set: 36]",
+    "options": [
+      "CIP rules",
+      "Aufbau",
+      "VSEPR",
+      "octet rule"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-141",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Select the best answer. [Topic: Thermodynamics] [Set: 21]",
+    "options": [
+      "J/mol K",
+      "KJ/mol",
+      "J",
+      "J/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-39",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: For JEE/BITSAT prep, pick the right concept. [Topic: Atomic Structure] [Set: 39]",
+    "options": [
+      "electrons",
+      "charge",
+      "protons",
+      "neutrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-56",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Choose the correct statement. [Topic: Atomic Structure] [Set: 56]",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-294",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Choose the correct statement. [Topic: Advanced Physical] [Set: 54]",
+    "options": [
+      "two-thirds",
+      "one-half",
+      "one-fourth",
+      "unchanged"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-5",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 5]",
+    "options": [
+      "120 deg",
+      "104.5 deg",
+      "109.5 deg",
+      "90 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-329",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Identify the correct option. [Topic: Advanced Physical] [Set: 89]",
+    "options": [
+      "-Ea/R",
+      "Ea/R",
+      "R/Ea",
+      "-R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-2",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Select the best answer. [Topic: Atomic Structure] [Set: 2]",
+    "options": [
+      "6",
+      "4",
+      "8",
+      "2"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-158",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Identify the correct option. [Topic: Thermodynamics] [Set: 38]",
+    "options": [
+      "delta G > 0",
+      "delta H > 0 only",
+      "delta G < 0",
+      "delta S < 0 only"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-115",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 115]",
+    "options": [
+      "alcohol",
+      "ester",
+      "ketone",
+      "amine"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-303",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Which option is accurate? [Topic: Advanced Physical] [Set: 63]",
+    "options": [
+      "one-half",
+      "one-fourth",
+      "two-thirds",
+      "unchanged"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-290",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 50]",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-179",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Select the best answer. [Topic: Equilibrium] [Set: 59]",
+    "options": [
+      "left",
+      "none",
+      "right",
+      "irreversible"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-282",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Which option is accurate? [Topic: Coordination Chemistry] [Set: 42]",
+    "options": [
+      "bond length",
+      "volatility",
+      "acidity",
+      "complex stability"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-74",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Which option is accurate? [Topic: Atomic Structure] [Set: 74]",
+    "options": [
+      "6",
+      "8",
+      "2",
+      "4"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-288",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Which option is accurate? [Topic: Reaction Mechanisms] [Set: 48]",
+    "options": [
+      "E2",
+      "SN1",
+      "addition",
+      "SN2"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-227",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Identify the correct option. [Topic: Stereochemistry] [Set: 107]",
+    "options": [
+      "same direction",
+      "no rotation",
+      "random directions",
+      "opposite directions"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-207",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Choose the correct statement. [Topic: Equilibrium] [Set: 87]",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "7"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-86",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Select the best answer. [Topic: Chemical Bonding] [Set: 86]",
+    "options": [
+      "90 deg",
+      "104.5 deg",
+      "109.5 deg",
+      "120 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-167",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Which option is accurate? [Topic: Thermodynamics] [Set: 47]",
+    "options": [
+      "delta S < 0 only",
+      "delta H > 0 only",
+      "delta G < 0",
+      "delta G > 0"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-218",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Choose the correct statement. [Topic: Stereochemistry] [Set: 98]",
+    "options": [
+      "random directions",
+      "same direction",
+      "no rotation",
+      "opposite directions"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-26",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 26]",
+    "options": [
+      "-ol",
+      "-al",
+      "-oic acid",
+      "-one"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-326",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Select the best answer. [Topic: Coordination Chemistry] [Set: 86]",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-8",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Identify the correct option. [Topic: Organic Basics] [Set: 8]",
+    "options": [
+      "-one",
+      "-oic acid",
+      "-al",
+      "-ol"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-58",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Select the best answer. [Topic: Chemical Bonding] [Set: 58]",
+    "options": [
+      "planar",
+      "tetrahedral",
+      "linear",
+      "bent"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-212",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Select the best answer. [Topic: Thermodynamics] [Set: 92]",
+    "options": [
+      "delta G > 0",
+      "delta H > 0 only",
+      "delta S < 0 only",
+      "delta G < 0"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-333",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Identify the correct option. [Topic: Reaction Mechanisms] [Set: 93]",
+    "options": [
+      "SN1",
+      "addition",
+      "E2",
+      "SN2"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-281",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Which option is accurate? [Topic: Coordination Chemistry] [Set: 41]",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-61",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Select the best answer. [Topic: Organic Basics] [Set: 61]",
+    "options": [
+      "ketone",
+      "ester",
+      "amine",
+      "alcohol"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-221",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Select the best answer. [Topic: Thermodynamics] [Set: 101]",
+    "options": [
+      "delta S < 0 only",
+      "delta G > 0",
+      "delta G < 0",
+      "delta H > 0 only"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-235",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Identify the correct option. [Topic: Stereochemistry] [Set: 115]",
+    "options": [
+      "ring only",
+      "charge",
+      "double bond",
+      "four different groups"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-102",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: For JEE/BITSAT prep, pick the right concept. [Topic: Atomic Structure] [Set: 102]",
+    "options": [
+      "neutrons",
+      "charge",
+      "protons",
+      "electrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-226",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Choose the correct statement. [Topic: Stereochemistry] [Set: 106]",
+    "options": [
+      "ring only",
+      "double bond",
+      "charge",
+      "four different groups"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-107",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Which option is accurate? [Topic: Organic Basics] [Set: 107]",
+    "options": [
+      "-oic acid",
+      "-one",
+      "-al",
+      "-ol"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-7",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Select the best answer. [Topic: Organic Basics] [Set: 7]",
+    "options": [
+      "ketone",
+      "amine",
+      "alcohol",
+      "ester"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-90",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Select the best answer. [Topic: Organic Basics] [Set: 90]",
+    "options": [
+      "arenes",
+      "alkynes",
+      "alkanes",
+      "alkenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-209",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Choose the correct statement. [Topic: Stereochemistry] [Set: 89]",
+    "options": [
+      "no rotation",
+      "random directions",
+      "opposite directions",
+      "same direction"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-57",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: For JEE/BITSAT prep, pick the right concept. [Topic: Atomic Structure] [Set: 57]",
+    "options": [
+      "charge",
+      "protons",
+      "electrons",
+      "neutrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-24",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Which option is accurate? [Topic: Chemical Bonding] [Set: 24]",
+    "options": [
+      "Cl-Cl",
+      "O-H",
+      "N-H",
+      "C-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-112",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Which option is accurate? [Topic: Chemical Bonding] [Set: 112]",
+    "options": [
+      "bent",
+      "planar",
+      "tetrahedral",
+      "linear"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-38",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Identify the correct option. [Topic: Atomic Structure] [Set: 38]",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-132",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Select the best answer. [Topic: Thermodynamics] [Set: 12]",
+    "options": [
+      "KJ/mol",
+      "J/mol K",
+      "J/mol",
+      "J"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-280",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 40]",
+    "options": [
+      "+3",
+      "+4",
+      "+1",
+      "+2"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-70",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Which option is accurate? [Topic: Organic Basics] [Set: 70]",
+    "options": [
+      "alcohol",
+      "amine",
+      "ester",
+      "ketone"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-252",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 12]",
+    "options": [
+      "SN1",
+      "SN2",
+      "addition",
+      "E2"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-196",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Choose the correct statement. [Topic: Equilibrium] [Set: 76]",
+    "options": [
+      "neither",
+      "products",
+      "solvent",
+      "reactants"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-351",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Identify the correct option. [Topic: Reaction Mechanisms] [Set: 111]",
+    "options": [
+      "SN1",
+      "E2",
+      "SN2",
+      "addition"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-238",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Select the best answer. [Topic: Thermodynamics] [Set: 118]",
+    "options": [
+      "delta S",
+      "delta H",
+      "delta U",
+      "delta G"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-341",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 101]",
+    "options": [
+      "carbocation rearrangement",
+      "SN1",
+      "E1",
+      "SN2"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-133",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Select the best answer. [Topic: Equilibrium] [Set: 13]",
+    "options": [
+      "solvent",
+      "neither",
+      "reactants",
+      "products"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-291",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 51]",
+    "options": [
+      "bond length",
+      "acidity",
+      "complex stability",
+      "volatility"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-183",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Identify the correct option. [Topic: Stereochemistry] [Set: 63]",
+    "options": [
+      "Aufbau",
+      "VSEPR",
+      "CIP rules",
+      "octet rule"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-318",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 78]",
+    "options": [
+      "bond length",
+      "complex stability",
+      "volatility",
+      "acidity"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-142",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Which option is accurate? [Topic: Equilibrium] [Set: 22]",
+    "options": [
+      "products",
+      "neither",
+      "reactants",
+      "solvent"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-96",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Which option is accurate? [Topic: Chemical Bonding] [Set: 96]",
+    "options": [
+      "Cl-Cl",
+      "O-H",
+      "N-H",
+      "C-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-124",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: For JEE/BITSAT prep, pick the right concept. [Topic: Equilibrium] [Set: 4]",
+    "options": [
+      "neither",
+      "solvent",
+      "reactants",
+      "products"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-346",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Choose the correct statement. [Topic: Advanced Physical] [Set: 106]",
+    "options": [
+      "dimensionless",
+      "s-1",
+      "mol L-1 s-1",
+      "L mol-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-14",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Select the best answer. [Topic: Chemical Bonding] [Set: 14]",
+    "options": [
+      "120 deg",
+      "104.5 deg",
+      "90 deg",
+      "109.5 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-65",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Select the best answer. [Topic: Atomic Structure] [Set: 65]",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-224",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Identify the correct option. [Topic: Equilibrium] [Set: 104]",
+    "options": [
+      "none",
+      "left",
+      "irreversible",
+      "right"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-36",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Identify the correct option. [Topic: Organic Basics] [Set: 36]",
+    "options": [
+      "alkynes",
+      "arenes",
+      "alkanes",
+      "alkenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-155",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: For JEE/BITSAT prep, pick the right concept. [Topic: Stereochemistry] [Set: 35]",
+    "options": [
+      "same direction",
+      "no rotation",
+      "random directions",
+      "opposite directions"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-206",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Identify the correct option. [Topic: Equilibrium] [Set: 86]",
+    "options": [
+      "left",
+      "none",
+      "irreversible",
+      "right"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-275",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Choose the correct statement. [Topic: Advanced Physical] [Set: 35]",
+    "options": [
+      "R/Ea",
+      "Ea/R",
+      "-R/Ea",
+      "-Ea/R"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-321",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: For JEE/BITSAT prep, pick the right concept. [Topic: Advanced Physical] [Set: 81]",
+    "options": [
+      "one-half",
+      "unchanged",
+      "two-thirds",
+      "one-fourth"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-306",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 66]",
+    "options": [
+      "SN2",
+      "SN1",
+      "addition",
+      "E2"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-108",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Choose the correct statement. [Topic: Organic Basics] [Set: 108]",
+    "options": [
+      "alkenes",
+      "alkynes",
+      "alkanes",
+      "arenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-136",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: For JEE/BITSAT prep, pick the right concept. [Topic: Stereochemistry] [Set: 16]",
+    "options": [
+      "ring only",
+      "double bond",
+      "charge",
+      "four different groups"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-129",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Select the best answer. [Topic: Stereochemistry] [Set: 9]",
+    "options": [
+      "CIP rules",
+      "octet rule",
+      "VSEPR",
+      "Aufbau"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-98",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Select the best answer. [Topic: Organic Basics] [Set: 98]",
+    "options": [
+      "-one",
+      "-al",
+      "-oic acid",
+      "-ol"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-200",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Which option is accurate? [Topic: Stereochemistry] [Set: 80]",
+    "options": [
+      "no rotation",
+      "random directions",
+      "opposite directions",
+      "same direction"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-304",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 64]",
+    "options": [
+      "substrate only",
+      "temperature only",
+      "nucleophile only",
+      "both equally"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-355",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: For JEE/BITSAT prep, pick the right concept. [Topic: Advanced Physical] [Set: 115]",
+    "options": [
+      "mol L-1 s-1",
+      "L mol-1 s-1",
+      "s-1",
+      "dimensionless"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-119",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? Select the best answer. [Topic: Atomic Structure] [Set: 119]",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-113",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Identify the correct option. [Topic: Chemical Bonding] [Set: 113]",
+    "options": [
+      "120 deg",
+      "109.5 deg",
+      "104.5 deg",
+      "90 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-147",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Choose the correct statement. [Topic: Stereochemistry] [Set: 27]",
+    "options": [
+      "CIP rules",
+      "VSEPR",
+      "octet rule",
+      "Aufbau"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-243",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 3]",
+    "options": [
+      "SN2",
+      "addition",
+      "E2",
+      "SN1"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-320",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: For JEE/BITSAT prep, pick the right concept. [Topic: Advanced Physical] [Set: 80]",
+    "options": [
+      "-R/Ea",
+      "Ea/R",
+      "-Ea/R",
+      "R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-95",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Select the best answer. [Topic: Chemical Bonding] [Set: 95]",
+    "options": [
+      "104.5 deg",
+      "120 deg",
+      "90 deg",
+      "109.5 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-50",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 50]",
+    "options": [
+      "120 deg",
+      "109.5 deg",
+      "90 deg",
+      "104.5 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-214",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Identify the correct option. [Topic: Equilibrium] [Set: 94]",
+    "options": [
+      "solvent",
+      "products",
+      "reactants",
+      "neither"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-232",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Choose the correct statement. [Topic: Equilibrium] [Set: 112]",
+    "options": [
+      "reactants",
+      "solvent",
+      "neither",
+      "products"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-121",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Which option is accurate? [Topic: Thermodynamics] [Set: 1]",
+    "options": [
+      "delta S",
+      "delta H",
+      "delta U",
+      "delta G"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-301",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Which option is accurate? [Topic: Advanced Physical] [Set: 61]",
+    "options": [
+      "s-1",
+      "L mol-1 s-1",
+      "mol L-1 s-1",
+      "dimensionless"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-208",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Identify the correct option. [Topic: Stereochemistry] [Set: 88]",
+    "options": [
+      "four different groups",
+      "double bond",
+      "ring only",
+      "charge"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-248",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Choose the correct statement. [Topic: Advanced Physical] [Set: 8]",
+    "options": [
+      "-R/Ea",
+      "Ea/R",
+      "-Ea/R",
+      "R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-278",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Which option is accurate? [Topic: Reaction Mechanisms] [Set: 38]",
+    "options": [
+      "SN2",
+      "E1",
+      "carbocation rearrangement",
+      "SN1"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-62",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Select the best answer. [Topic: Organic Basics] [Set: 62]",
+    "options": [
+      "-oic acid",
+      "-al",
+      "-ol",
+      "-one"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-137",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Which option is accurate? [Topic: Stereochemistry] [Set: 17]",
+    "options": [
+      "random directions",
+      "no rotation",
+      "opposite directions",
+      "same direction"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-120",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Which option is accurate? [Topic: Atomic Structure] [Set: 120]",
+    "options": [
+      "electrons",
+      "protons",
+      "charge",
+      "neutrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-230",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 110]",
+    "options": [
+      "delta G < 0",
+      "delta H > 0 only",
+      "delta G > 0",
+      "delta S < 0 only"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-311",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Identify the correct option. [Topic: Advanced Physical] [Set: 71]",
+    "options": [
+      "Ea/R",
+      "-R/Ea",
+      "-Ea/R",
+      "R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-228",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Which option is accurate? [Topic: Stereochemistry] [Set: 108]",
+    "options": [
+      "VSEPR",
+      "octet rule",
+      "Aufbau",
+      "CIP rules"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-122",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Choose the correct statement. [Topic: Thermodynamics] [Set: 2]",
+    "options": [
+      "delta S < 0 only",
+      "delta G < 0",
+      "delta H > 0 only",
+      "delta G > 0"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-325",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 85]",
+    "options": [
+      "+2",
+      "+1",
+      "+3",
+      "+4"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-211",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 91]",
+    "options": [
+      "delta U",
+      "delta G",
+      "delta H",
+      "delta S"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-23",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Select the best answer. [Topic: Chemical Bonding] [Set: 23]",
+    "options": [
+      "90 deg",
+      "109.5 deg",
+      "120 deg",
+      "104.5 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-330",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Choose the correct statement. [Topic: Advanced Physical] [Set: 90]",
+    "options": [
+      "one-half",
+      "two-thirds",
+      "unchanged",
+      "one-fourth"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-85",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Identify the correct option. [Topic: Chemical Bonding] [Set: 85]",
+    "options": [
+      "bent",
+      "linear",
+      "tetrahedral",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-285",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Select the best answer. [Topic: Advanced Physical] [Set: 45]",
+    "options": [
+      "unchanged",
+      "one-fourth",
+      "one-half",
+      "two-thirds"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-84",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Identify the correct option. [Topic: Atomic Structure] [Set: 84]",
+    "options": [
+      "electrons",
+      "charge",
+      "protons",
+      "neutrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-79",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 79]",
+    "options": [
+      "amine",
+      "ketone",
+      "alcohol",
+      "ester"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-296",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 56]",
+    "options": [
+      "SN2",
+      "carbocation rearrangement",
+      "E1",
+      "SN1"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-68",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Choose the correct statement. [Topic: Chemical Bonding] [Set: 68]",
+    "options": [
+      "109.5 deg",
+      "104.5 deg",
+      "90 deg",
+      "120 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-173",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Identify the correct option. [Topic: Stereochemistry] [Set: 53]",
+    "options": [
+      "same direction",
+      "no rotation",
+      "random directions",
+      "opposite directions"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-20",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? For JEE/BITSAT prep, pick the right concept. [Topic: Atomic Structure] [Set: 20]",
+    "options": [
+      "6",
+      "8",
+      "4",
+      "2"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-349",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Identify the correct option. [Topic: Reaction Mechanisms] [Set: 109]",
+    "options": [
+      "substrate only",
+      "both equally",
+      "temperature only",
+      "nucleophile only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-356",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Identify the correct option. [Topic: Advanced Physical] [Set: 116]",
+    "options": [
+      "-Ea/R",
+      "-R/Ea",
+      "R/Ea",
+      "Ea/R"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-52",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Select the best answer. [Topic: Organic Basics] [Set: 52]",
+    "options": [
+      "ketone",
+      "alcohol",
+      "ester",
+      "amine"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-152",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: Which option is accurate? [Topic: Equilibrium] [Set: 32]",
+    "options": [
+      "left",
+      "none",
+      "right",
+      "irreversible"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-40",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Choose the correct statement. [Topic: Chemical Bonding] [Set: 40]",
+    "options": [
+      "bent",
+      "tetrahedral",
+      "planar",
+      "linear"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-80",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Choose the correct statement. [Topic: Organic Basics] [Set: 80]",
+    "options": [
+      "-al",
+      "-oic acid",
+      "-one",
+      "-ol"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-71",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 71]",
+    "options": [
+      "-oic acid",
+      "-one",
+      "-al",
+      "-ol"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-116",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Identify the correct option. [Topic: Organic Basics] [Set: 116]",
+    "options": [
+      "-al",
+      "-ol",
+      "-one",
+      "-oic acid"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-99",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Which option is accurate? [Topic: Organic Basics] [Set: 99]",
+    "options": [
+      "alkanes",
+      "alkenes",
+      "arenes",
+      "alkynes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-249",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "At half-life of first-order reaction, concentration is: Identify the correct option. [Topic: Advanced Physical] [Set: 9]",
+    "options": [
+      "one-fourth",
+      "one-half",
+      "unchanged",
+      "two-thirds"
+    ],
+    "answer": "one-half",
+    "explanation": "one-half is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-175",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: For JEE/BITSAT prep, pick the right concept. [Topic: Thermodynamics] [Set: 55]",
+    "options": [
+      "delta U",
+      "delta S",
+      "delta G",
+      "delta H"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-110",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? For JEE/BITSAT prep, pick the right concept. [Topic: Atomic Structure] [Set: 110]",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "6"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-93",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Select the best answer. [Topic: Atomic Structure] [Set: 93]",
+    "options": [
+      "electrons",
+      "charge",
+      "protons",
+      "neutrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-353",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: Select the best answer. [Topic: Coordination Chemistry] [Set: 113]",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-289",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 49]",
+    "options": [
+      "+4",
+      "+2",
+      "+1",
+      "+3"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-10",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Identify the correct option. [Topic: Atomic Structure] [Set: 10]",
+    "options": [
+      "l",
+      "n",
+      "s",
+      "m"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-186",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Which option is accurate? [Topic: Thermodynamics] [Set: 66]",
+    "options": [
+      "J",
+      "J/mol K",
+      "KJ/mol",
+      "J/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-261",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 21]",
+    "options": [
+      "SN1",
+      "SN2",
+      "addition",
+      "E2"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-217",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Choose the correct statement. [Topic: Stereochemistry] [Set: 97]",
+    "options": [
+      "double bond",
+      "charge",
+      "four different groups",
+      "ring only"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-48",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Choose the correct statement. [Topic: Atomic Structure] [Set: 48]",
+    "options": [
+      "electrons",
+      "neutrons",
+      "charge",
+      "protons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-270",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 30]",
+    "options": [
+      "addition",
+      "E2",
+      "SN2",
+      "SN1"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-66",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Choose the correct statement. [Topic: Atomic Structure] [Set: 66]",
+    "options": [
+      "electrons",
+      "protons",
+      "neutrons",
+      "charge"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-358",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 118]",
+    "options": [
+      "substrate only",
+      "temperature only",
+      "both equally",
+      "nucleophile only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-193",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Identify the correct option. [Topic: Thermodynamics] [Set: 73]",
+    "options": [
+      "delta U",
+      "delta G",
+      "delta H",
+      "delta S"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-287",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Which option is accurate? [Topic: Reaction Mechanisms] [Set: 47]",
+    "options": [
+      "SN2",
+      "carbocation rearrangement",
+      "SN1",
+      "E1"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-302",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Which option is accurate? [Topic: Advanced Physical] [Set: 62]",
+    "options": [
+      "-Ea/R",
+      "Ea/R",
+      "-R/Ea",
+      "R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-337",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Select the best answer. [Topic: Advanced Physical] [Set: 97]",
+    "options": [
+      "dimensionless",
+      "s-1",
+      "mol L-1 s-1",
+      "L mol-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-67",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Choose the correct statement. [Topic: Chemical Bonding] [Set: 67]",
+    "options": [
+      "linear",
+      "tetrahedral",
+      "bent",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-201",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: For JEE/BITSAT prep, pick the right concept. [Topic: Stereochemistry] [Set: 81]",
+    "options": [
+      "Aufbau",
+      "octet rule",
+      "VSEPR",
+      "CIP rules"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-159",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Choose the correct statement. [Topic: Thermodynamics] [Set: 39]",
+    "options": [
+      "J/mol K",
+      "J",
+      "J/mol",
+      "KJ/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-180",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: For JEE/BITSAT prep, pick the right concept. [Topic: Equilibrium] [Set: 60]",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-73",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Identify the correct option. [Topic: Atomic Structure] [Set: 73]",
+    "options": [
+      "s",
+      "n",
+      "l",
+      "m"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-299",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 59]",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-42",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: For JEE/BITSAT prep, pick the right concept. [Topic: Chemical Bonding] [Set: 42]",
+    "options": [
+      "C-H",
+      "O-H",
+      "N-H",
+      "Cl-Cl"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-171",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Which option is accurate? [Topic: Equilibrium] [Set: 51]",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "6"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-77",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Identify the correct option. [Topic: Chemical Bonding] [Set: 77]",
+    "options": [
+      "109.5 deg",
+      "120 deg",
+      "104.5 deg",
+      "90 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-309",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Chelate effect generally increases: Which option is accurate? [Topic: Coordination Chemistry] [Set: 69]",
+    "options": [
+      "acidity",
+      "bond length",
+      "complex stability",
+      "volatility"
+    ],
+    "answer": "complex stability",
+    "explanation": "complex stability is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-130",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "At constant pressure, heat exchanged equals: Identify the correct option. [Topic: Thermodynamics] [Set: 10]",
+    "options": [
+      "delta S",
+      "delta G",
+      "delta H",
+      "delta U"
+    ],
+    "answer": "delta H",
+    "explanation": "delta H is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-146",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Which option is accurate? [Topic: Stereochemistry] [Set: 26]",
+    "options": [
+      "same direction",
+      "random directions",
+      "opposite directions",
+      "no rotation"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-198",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Which option is accurate? [Topic: Equilibrium] [Set: 78]",
+    "options": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-286",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 46]",
+    "options": [
+      "substrate only",
+      "nucleophile only",
+      "both equally",
+      "temperature only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-49",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Choose the correct statement. [Topic: Chemical Bonding] [Set: 49]",
+    "options": [
+      "tetrahedral",
+      "linear",
+      "bent",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-169",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: For JEE/BITSAT prep, pick the right concept. [Topic: Equilibrium] [Set: 49]",
+    "options": [
+      "neither",
+      "products",
+      "solvent",
+      "reactants"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-34",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: For JEE/BITSAT prep, pick the right concept. [Topic: Organic Basics] [Set: 34]",
+    "options": [
+      "amine",
+      "ester",
+      "alcohol",
+      "ketone"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-172",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Identify the correct option. [Topic: Stereochemistry] [Set: 52]",
+    "options": [
+      "charge",
+      "four different groups",
+      "ring only",
+      "double bond"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-27",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Saturated hydrocarbon family: Select the best answer. [Topic: Organic Basics] [Set: 27]",
+    "options": [
+      "alkanes",
+      "alkenes",
+      "alkynes",
+      "arenes"
+    ],
+    "answer": "alkanes",
+    "explanation": "alkanes is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-307",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 67]",
+    "options": [
+      "+2",
+      "+1",
+      "+3",
+      "+4"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-174",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: For JEE/BITSAT prep, pick the right concept. [Topic: Stereochemistry] [Set: 54]",
+    "options": [
+      "octet rule",
+      "Aufbau",
+      "VSEPR",
+      "CIP rules"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-210",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: For JEE/BITSAT prep, pick the right concept. [Topic: Stereochemistry] [Set: 90]",
+    "options": [
+      "Aufbau",
+      "VSEPR",
+      "octet rule",
+      "CIP rules"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-199",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Choose the correct statement. [Topic: Stereochemistry] [Set: 79]",
+    "options": [
+      "charge",
+      "ring only",
+      "four different groups",
+      "double bond"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-145",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Select the best answer. [Topic: Stereochemistry] [Set: 25]",
+    "options": [
+      "double bond",
+      "charge",
+      "four different groups",
+      "ring only"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-191",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "Enantiomers rotate plane polarized light in: Select the best answer. [Topic: Stereochemistry] [Set: 71]",
+    "options": [
+      "random directions",
+      "opposite directions",
+      "no rotation",
+      "same direction"
+    ],
+    "answer": "opposite directions",
+    "explanation": "opposite directions is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-187",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "For Kc >> 1, equilibrium favors: Choose the correct statement. [Topic: Equilibrium] [Set: 67]",
+    "options": [
+      "products",
+      "reactants",
+      "solvent",
+      "neither"
+    ],
+    "answer": "products",
+    "explanation": "products is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-82",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Which quantum number defines orbital shape? Identify the correct option. [Topic: Atomic Structure] [Set: 82]",
+    "options": [
+      "m",
+      "n",
+      "l",
+      "s"
+    ],
+    "answer": "l",
+    "explanation": "l is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-313",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 73]",
+    "options": [
+      "both equally",
+      "temperature only",
+      "nucleophile only",
+      "substrate only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-268",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 28]",
+    "options": [
+      "nucleophile only",
+      "substrate only",
+      "both equally",
+      "temperature only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-269",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Identify the correct option. [Topic: Reaction Mechanisms] [Set: 29]",
+    "options": [
+      "SN1",
+      "carbocation rearrangement",
+      "SN2",
+      "E1"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-335",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "d4 high-spin octahedral has unpaired electrons: For JEE/BITSAT prep, pick the right concept. [Topic: Coordination Chemistry] [Set: 95]",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "4 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-225",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "pH of neutral water at 25C: Choose the correct statement. [Topic: Equilibrium] [Set: 105]",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "7"
+    ],
+    "answer": "7",
+    "explanation": "7 is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-127",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "A chiral carbon must have: Select the best answer. [Topic: Stereochemistry] [Set: 7]",
+    "options": [
+      "double bond",
+      "ring only",
+      "charge",
+      "four different groups"
+    ],
+    "answer": "four different groups",
+    "explanation": "four different groups is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-21",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Isotopes differ in: Select the best answer. [Topic: Atomic Structure] [Set: 21]",
+    "options": [
+      "charge",
+      "electrons",
+      "protons",
+      "neutrons"
+    ],
+    "answer": "neutrons",
+    "explanation": "neutrons is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-89",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Identify the correct option. [Topic: Organic Basics] [Set: 89]",
+    "options": [
+      "-one",
+      "-ol",
+      "-oic acid",
+      "-al"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-360",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 120]",
+    "options": [
+      "E2",
+      "SN2",
+      "addition",
+      "SN1"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-259",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Which option is accurate? [Topic: Reaction Mechanisms] [Set: 19]",
+    "options": [
+      "nucleophile only",
+      "both equally",
+      "substrate only",
+      "temperature only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-44",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Which option is accurate? [Topic: Organic Basics] [Set: 44]",
+    "options": [
+      "-ol",
+      "-one",
+      "-oic acid",
+      "-al"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-176",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "Spontaneous process has: Identify the correct option. [Topic: Thermodynamics] [Set: 56]",
+    "options": [
+      "delta G > 0",
+      "delta G < 0",
+      "delta S < 0 only",
+      "delta H > 0 only"
+    ],
+    "answer": "delta G < 0",
+    "explanation": "delta G < 0 is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-53",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "IUPAC suffix for aldehyde: Choose the correct statement. [Topic: Organic Basics] [Set: 53]",
+    "options": [
+      "-oic acid",
+      "-one",
+      "-al",
+      "-ol"
+    ],
+    "answer": "-al",
+    "explanation": "-al is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-350",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 110]",
+    "options": [
+      "E1",
+      "SN1",
+      "SN2",
+      "carbocation rearrangement"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-32",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Bond angle in water is closest to: Identify the correct option. [Topic: Chemical Bonding] [Set: 32]",
+    "options": [
+      "120 deg",
+      "109.5 deg",
+      "90 deg",
+      "104.5 deg"
+    ],
+    "answer": "104.5 deg",
+    "explanation": "104.5 deg is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-78",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Most polar bond: Identify the correct option. [Topic: Chemical Bonding] [Set: 78]",
+    "options": [
+      "Cl-Cl",
+      "N-H",
+      "O-H",
+      "C-H"
+    ],
+    "answer": "O-H",
+    "explanation": "O-H is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-257",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Identify the correct option. [Topic: Advanced Physical] [Set: 17]",
+    "options": [
+      "Ea/R",
+      "-Ea/R",
+      "-R/Ea",
+      "R/Ea"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-244",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Which option is accurate? [Topic: Coordination Chemistry] [Set: 4]",
+    "options": [
+      "+2",
+      "+3",
+      "+1",
+      "+4"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-310",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "For first-order reaction, unit of k is: Which option is accurate? [Topic: Advanced Physical] [Set: 70]",
+    "options": [
+      "s-1",
+      "mol L-1 s-1",
+      "dimensionless",
+      "L mol-1 s-1"
+    ],
+    "answer": "s-1",
+    "explanation": "s-1 is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-165",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Select the best answer. [Topic: Stereochemistry] [Set: 45]",
+    "options": [
+      "octet rule",
+      "VSEPR",
+      "CIP rules",
+      "Aufbau"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-97",
+    "difficulty": "easy",
+    "topic": "Organic Basics",
+    "question": "Functional group in ethanol: Select the best answer. [Topic: Organic Basics] [Set: 97]",
+    "options": [
+      "ketone",
+      "ester",
+      "alcohol",
+      "amine"
+    ],
+    "answer": "alcohol",
+    "explanation": "alcohol is correct under Organic Basics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-334",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Which option is accurate? [Topic: Coordination Chemistry] [Set: 94]",
+    "options": [
+      "+4",
+      "+3",
+      "+1",
+      "+2"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-293",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Select the best answer. [Topic: Advanced Physical] [Set: 53]",
+    "options": [
+      "-R/Ea",
+      "-Ea/R",
+      "R/Ea",
+      "Ea/R"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-231",
+    "difficulty": "medium",
+    "topic": "Thermodynamics",
+    "question": "SI unit of entropy: Identify the correct option. [Topic: Thermodynamics] [Set: 111]",
+    "options": [
+      "J",
+      "KJ/mol",
+      "J/mol K",
+      "J/mol"
+    ],
+    "answer": "J/mol K",
+    "explanation": "J/mol K is correct under Thermodynamics. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-22",
+    "difficulty": "easy",
+    "topic": "Chemical Bonding",
+    "question": "Geometry of CH4 is: Identify the correct option. [Topic: Chemical Bonding] [Set: 22]",
+    "options": [
+      "bent",
+      "linear",
+      "tetrahedral",
+      "planar"
+    ],
+    "answer": "tetrahedral",
+    "explanation": "tetrahedral is correct under Chemical Bonding. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-284",
+    "difficulty": "hard",
+    "topic": "Advanced Physical",
+    "question": "Arrhenius plot slope equals: Identify the correct option. [Topic: Advanced Physical] [Set: 44]",
+    "options": [
+      "-R/Ea",
+      "R/Ea",
+      "Ea/R",
+      "-Ea/R"
+    ],
+    "answer": "-Ea/R",
+    "explanation": "-Ea/R is correct under Advanced Physical. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-298",
+    "difficulty": "hard",
+    "topic": "Coordination Chemistry",
+    "question": "Oxidation state of Fe in [Fe(CN)6]4-: Choose the correct statement. [Topic: Coordination Chemistry] [Set: 58]",
+    "options": [
+      "+1",
+      "+4",
+      "+2",
+      "+3"
+    ],
+    "answer": "+2",
+    "explanation": "+2 is correct under Coordination Chemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-237",
+    "difficulty": "medium",
+    "topic": "Stereochemistry",
+    "question": "R/S notation is based on: Which option is accurate? [Topic: Stereochemistry] [Set: 117]",
+    "options": [
+      "octet rule",
+      "Aufbau",
+      "VSEPR",
+      "CIP rules"
+    ],
+    "answer": "CIP rules",
+    "explanation": "CIP rules is correct under Stereochemistry. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-197",
+    "difficulty": "medium",
+    "topic": "Equilibrium",
+    "question": "Le Chatelier shift for added reactant: For JEE/BITSAT prep, pick the right concept. [Topic: Equilibrium] [Set: 77]",
+    "options": [
+      "right",
+      "none",
+      "irreversible",
+      "left"
+    ],
+    "answer": "right",
+    "explanation": "right is correct under Equilibrium. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-260",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Identify the correct option. [Topic: Reaction Mechanisms] [Set: 20]",
+    "options": [
+      "carbocation rearrangement",
+      "E1",
+      "SN2",
+      "SN1"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-305",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Primary alkyl halides prefer: Select the best answer. [Topic: Reaction Mechanisms] [Set: 65]",
+    "options": [
+      "SN1",
+      "carbocation rearrangement",
+      "E1",
+      "SN2"
+    ],
+    "answer": "SN2",
+    "explanation": "SN2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-315",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "Strong bulky base favors: For JEE/BITSAT prep, pick the right concept. [Topic: Reaction Mechanisms] [Set: 75]",
+    "options": [
+      "E2",
+      "addition",
+      "SN1",
+      "SN2"
+    ],
+    "answer": "E2",
+    "explanation": "E2 is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-47",
+    "difficulty": "easy",
+    "topic": "Atomic Structure",
+    "question": "Maximum electrons in p-subshell? For JEE/BITSAT prep, pick the right concept. [Topic: Atomic Structure] [Set: 47]",
+    "options": [
+      "4",
+      "6",
+      "2",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "6 is correct under Atomic Structure. Review the underlying principle and eliminate distractors by concept."
+  },
+  {
+    "id": "q-331",
+    "difficulty": "hard",
+    "topic": "Reaction Mechanisms",
+    "question": "SN1 reaction rate depends on: Choose the correct statement. [Topic: Reaction Mechanisms] [Set: 91]",
+    "options": [
+      "nucleophile only",
+      "temperature only",
+      "both equally",
+      "substrate only"
+    ],
+    "answer": "substrate only",
+    "explanation": "substrate only is correct under Reaction Mechanisms. Review the underlying principle and eliminate distractors by concept."
+  }
+]

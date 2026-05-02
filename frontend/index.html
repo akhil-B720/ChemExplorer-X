@@ -1,116 +1,187 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ChemExplorer X</title>
-  <link rel="stylesheet" href="styles.css" />
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/2.1.0/3Dmol-min.js" defer></script>
-  <script src="https://unpkg.com/smiles-drawer@2.1.4/dist/smiles-drawer.min.js" defer></script>
-  <script src="app.js" type="module" defer></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chem Explorer H</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Orbitron:wght@400;500;700;900&family=JetBrains+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/chem-explorer-h.css">
 </head>
-<body data-theme="dark">
-  <div class="bg-orbs"></div>
-  <div class="particles" id="particles"></div>
-  <header class="top-nav glass">
-    <div class="brand">ChemExplorer X</div>
-    <div class="right-controls">
-      <button id="themeToggle" class="ghost-btn">Toggle Theme</button>
-      <a href="https://github.com/akhil-B720" target="_blank" rel="noreferrer">GitHub</a>
-      <a href="https://www.linkedin.com/in/akhil-godekar-682b17384" target="_blank" rel="noreferrer">LinkedIn</a>
+<body>
+  <canvas id="bg-canvas"></canvas>
+  <div class="bg-overlay"></div>
+
+  <nav>
+    <div class="nav-logo">⬡ CEH</div>
+    <button type="button" class="nav-tab active" data-section="hero">Home</button>
+    <button type="button" class="nav-tab" data-section="molecule">Molecule</button>
+    <button type="button" class="nav-tab" data-section="chat">AI Tutor</button>
+    <button type="button" class="nav-tab" data-section="quiz">Quiz</button>
+  </nav>
+
+  <section id="hero" class="section active">
+    <canvas id="orbital-canvas"></canvas>
+    <div class="hero-content">
+      <div class="hero-title" id="hero-title">
+        <div class="title-word" id="word1"></div>
+        <div class="title-word" id="word2"></div>
+        <div class="title-word" id="word3"></div>
+      </div>
+      <div class="hero-sub">Advanced Chemistry Platform</div>
+      <div class="hero-badges">
+        <div class="badge">Molecular Analysis</div>
+        <div class="badge">3D Visualization</div>
+        <div class="badge">AI Tutor</div>
+        <div class="badge">Interactive Quiz</div>
+      </div>
+      <button type="button" class="cta-btn" id="cta-molecule">Explore Molecules →</button>
     </div>
-  </header>
+    <div class="scroll-hint">
+      <div class="scroll-line"></div>
+      <span>SCROLL</span>
+    </div>
+  </section>
 
-  <main>
-    <section id="landing" class="page active">
-      <div class="hero glass">
-        <h1 id="heroTitle">ChemExplorer X</h1>
-        <p>Explore molecules. Understand chemistry. Visually.</p>
-        <div class="analyze-form">
-          <input id="queryInput" placeholder="Enter SMILES or compound name..." />
-          <button id="analyzeBtn">Analyze</button>
+  <section id="molecule" class="section">
+    <div class="container">
+      <div class="section-title">⬡ MOLECULAR INTELLIGENCE</div>
+      <div class="section-heading">Molecule Analysis</div>
+
+      <div class="mol-input-row">
+        <div class="input-group mol-input-grow">
+          <input class="mol-input" id="mol-input" placeholder="glucose, caffeine, dopamine, or SMILES…" autocomplete="off" />
+          <button type="button" class="btn-primary" id="mol-analyze">Analyze</button>
         </div>
-        <p class="hint">Try: dopamine, caffeine, ibuprofen, CC(O)C(=O)O</p>
+        <div class="quick-load">
+          <button type="button" class="btn-secondary" data-quick="glucose">Glucose</button>
+          <button type="button" class="btn-secondary" data-quick="caffeine">Caffeine</button>
+          <button type="button" class="btn-secondary" data-quick="dopamine">Dopamine</button>
+          <button type="button" class="btn-secondary" data-quick="aspirin">Aspirin</button>
+        </div>
       </div>
 
-      <div class="landing-grid">
-        <article class="glass profile">
-          <h3>Akhil</h3>
-          <p>AI/ML Engineer | Building Intelligent Systems</p>
-          <div class="links">
-            <a href="https://github.com/akhil-B720" target="_blank" rel="noreferrer">github.com/akhil-B720</a>
-            <a href="https://www.linkedin.com/in/akhil-godekar-682b17384" target="_blank" rel="noreferrer">linkedin.com/in/akhil-godekar-682b17384</a>
+      <div class="mol-grid">
+        <div>
+          <div class="card card-spaced">
+            <div class="card-head-row">
+              <span class="card-kicker">Molecular Properties</span>
+              <div id="mol-loading" class="mol-loading-hidden"><div class="loading-ring loading-ring-sm"></div></div>
+            </div>
+            <div class="mol-result" id="mol-result">
+              <span class="muted-hint">Enter a compound name or SMILES — analysis runs through Flask + RDKit + PubChem…</span>
+            </div>
           </div>
-        </article>
-        <article class="glass">
-          <h3>Demo Molecule: Dopamine</h3>
-          <div id="demoViewer" class="viewer"></div>
-        </article>
+          <div class="card">
+            <div class="card-kicker">Chirality Analysis</div>
+            <div class="chirality-btns">
+              <button type="button" class="btn-secondary" data-chiral="R">🔴 R Centers</button>
+              <button type="button" class="btn-secondary" data-chiral="S">🔵 S Centers</button>
+              <button type="button" class="btn-secondary" data-chiral="both">✨ Both</button>
+            </div>
+            <div id="chirality-info"></div>
+          </div>
+        </div>
+        <div>
+          <div class="card">
+            <div class="card-kicker">3D Structure Viewer</div>
+            <div id="mol-3d-viewer">
+              <canvas id="mol-3d-canvas"></canvas>
+              <div class="viewer-placeholder" id="viewer-placeholder">
+                <svg width="60" height="60" viewBox="0 0 60 60" fill="none">
+                  <circle cx="30" cy="30" r="8" fill="rgba(192,132,252,0.5)"/>
+                  <circle cx="10" cy="15" r="5" fill="rgba(232,121,249,0.4)"/>
+                  <circle cx="50" cy="15" r="5" fill="rgba(232,121,249,0.4)"/>
+                  <circle cx="10" cy="45" r="5" fill="rgba(244,114,182,0.4)"/>
+                  <circle cx="50" cy="45" r="5" fill="rgba(244,114,182,0.4)"/>
+                  <line x1="18" y1="18" x2="24" y2="24" stroke="rgba(192,132,252,0.5)" stroke-width="2"/>
+                  <line x1="42" y1="18" x2="36" y2="24" stroke="rgba(192,132,252,0.5)" stroke-width="2"/>
+                  <line x1="18" y1="42" x2="24" y2="36" stroke="rgba(192,132,252,0.5)" stroke-width="2"/>
+                  <line x1="42" y1="42" x2="36" y2="36" stroke="rgba(192,132,252,0.5)" stroke-width="2"/>
+                </svg>
+                <span class="muted-hint sm">ANALYZE A MOLECULE</span>
+              </div>
+            </div>
+            <div class="style-btns viewer-tools-hidden" id="style-btns">
+              <button type="button" class="btn-secondary active" data-style="stick">Stick</button>
+              <button type="button" class="btn-secondary" data-style="ballstick">Ball &amp; Stick</button>
+              <button type="button" class="btn-secondary" data-style="sphere">Sphere</button>
+              <button type="button" class="btn-secondary" id="reset-camera">↺ Reset</button>
+            </div>
+          </div>
+        </div>
       </div>
-    </section>
+    </div>
+  </section>
 
-    <section id="dashboard" class="page">
-      <div class="glass summary" id="summaryPanel"></div>
-      <div class="tabs glass" id="tabsWrap">
-        <button class="tab-btn active" data-tab="structure">Structure</button>
-        <button class="tab-btn" data-tab="chirality">Chirality Explained</button>
-        <button class="tab-btn" data-tab="groups">Functional Groups</button>
-        <button class="tab-btn" data-tab="compare">Molecule Comparison</button>
-        <button class="tab-btn" data-tab="quiz">Quiz System</button>
-        <button class="tab-btn" data-tab="chat">AI Chatbot</button>
-        <span id="tabIndicator" class="tab-indicator"></span>
-      </div>
-      <div class="tab-content">
-        <div class="tab-panel active" id="tab-structure">
-          <div class="panel-controls">
-            <label>Style</label>
-            <select id="styleSelector">
-              <option value="stick">Stick</option>
-              <option value="ballstick">Ball-and-stick</option>
-              <option value="sphere">Spacefill</option>
-            </select>
-          </div>
-          <div id="mainViewer" class="viewer large"></div>
+  <section id="chat" class="section">
+    <div class="container chat-shell">
+      <div class="chat-head">
+        <div>
+          <div class="section-title">⬡ AI TUTOR</div>
+          <div class="section-heading flush">Chem Explorer H AI</div>
         </div>
-        <div class="tab-panel" id="tab-chirality">
-          <div id="chiralityCards" class="cards"></div>
-        </div>
-        <div class="tab-panel" id="tab-groups">
-          <div class="panel-controls">
-            <label>Functional Group</label>
-            <select id="groupSelector"></select>
-            <button id="resetGroup" class="ghost-btn">Reset</button>
-          </div>
-          <div id="groupViewer" class="viewer large"></div>
-        </div>
-        <div class="tab-panel" id="tab-compare">
-          <div class="compare-grid">
-            <input id="leftCompare" placeholder="Left molecule" />
-            <input id="rightCompare" placeholder="Right molecule" />
-            <button id="compareBtn">Compare</button>
-          </div>
-          <div id="compareResult" class="cards"></div>
-        </div>
-        <div class="tab-panel" id="tab-quiz">
-          <div class="quiz-controls">
-            <button id="startQuizBtn">Start Adaptive Quiz</button>
-            <div id="quizStats">Score: 0 | XP: 0 | Level: 1 | Streak: 0</div>
-          </div>
-          <div id="quizQuestion" class="glass question-box"></div>
-        </div>
-        <div class="tab-panel" id="tab-chat">
-          <div id="chatWindow" class="chat-window"></div>
-          <div id="chatLoading" class="chat-loading hidden">
-            <span></span><span></span><span></span>
-          </div>
-          <div class="chat-input-row">
-            <input id="chatInput" placeholder="Ask ChemExplorer AI..." />
-            <button id="chatSend">Send</button>
+        <div class="chat-head-right">
+          <div class="api-status">
+            <div class="api-dot" id="api-dot"></div>
+            <span id="api-status-text">Checking…</span>
           </div>
         </div>
       </div>
-    </section>
-  </main>
+
+      <div class="card chat-container tight">
+        <div class="chat-quick" id="chat-quick">
+          <button type="button" class="quick-btn" data-q="Explain hybridization in organic chemistry step-by-step.">Hybridization</button>
+          <button type="button" class="quick-btn" data-q="Explain chirality, enantiomers, and R/S notation.">Chirality</button>
+          <button type="button" class="quick-btn" data-q="What are reaction intermediates (carbocation, carbanion, free radical)?">Intermediates</button>
+          <button type="button" class="quick-btn" data-q="Compare SN1 vs SN2 with exam-style reasoning.">SN1 vs SN2</button>
+          <button type="button" class="quick-btn" data-q="What is aromaticity? Give Hückel rule examples.">Aromaticity</button>
+        </div>
+        <div class="chat-messages" id="chat-messages">
+          <div class="msg ai">
+            <div class="msg-avatar">⚗</div>
+            <div class="msg-bubble">
+              Hi — I’m <strong>Chem Explorer H AI</strong>, your chemistry tutor (streamed via the Flask backend). Ask about structure, reactions, or exam strategy.
+            </div>
+          </div>
+        </div>
+        <div class="chat-input-area">
+          <textarea class="chat-input" id="chat-input" rows="1" placeholder="Ask anything about chemistry…"></textarea>
+          <button type="button" class="btn-primary" id="send-btn">Send</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="quiz" class="section">
+    <div class="container">
+      <div class="section-title">⬡ KNOWLEDGE TEST</div>
+      <div class="section-heading">Chemistry Quiz</div>
+
+      <div class="quiz-header">
+        <div class="stat-chip"><div><div class="label">SCORE</div><div class="value" id="score-val">0</div></div></div>
+        <div class="stat-chip"><div><div class="label">CORRECT</div><div class="value" id="correct-val">0</div></div></div>
+        <div class="stat-chip"><div><div class="label">TOTAL</div><div class="value" id="total-val">0</div></div></div>
+        <div class="streak-badge" id="streak-badge">🔥 <span id="streak-val">0</span> streak</div>
+        <button type="button" class="btn-secondary" id="quiz-next">Next →</button>
+        <button type="button" class="btn-secondary" id="quiz-reset">Reset</button>
+      </div>
+
+      <div class="quiz-xp-row">
+        <div class="xp-labels"><span>XP Progress</span><span id="xp-val">0 XP</span></div>
+        <div class="xp-bar-wrap"><div class="xp-bar" id="xp-bar" style="width:0%"></div></div>
+      </div>
+
+      <div class="difficulty-tabs">
+        <button type="button" class="diff-tab active" data-diff="all">All</button>
+        <button type="button" class="diff-tab" data-diff="easy">Easy</button>
+        <button type="button" class="diff-tab" data-diff="medium">Medium</button>
+        <button type="button" class="diff-tab" data-diff="hard">Hard</button>
+      </div>
+
+      <div id="quiz-area"></div>
+    </div>
+  </section>
+
+  <script src="/chem-explorer-h.js"></script>
 </body>
 </html>

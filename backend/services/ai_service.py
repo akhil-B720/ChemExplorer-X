@@ -8,16 +8,23 @@ try:
 except ImportError:  # pragma: no cover
     OpenAI = None
 
+try:
+    from anthropic import Anthropic
+except ImportError:  # pragma: no cover
+    Anthropic = None
+
 
 SYSTEM_PROMPT = (
-    "You are ChemExplorer AI, an expert chemistry tutor. Explain step-by-step, "
-    "start simple then go advanced. Focus on JEE/BITSAT level."
+    "You are Chem Explorer H AI, an expert chemistry tutor. "
+    "Explain step-by-step, starting simple and going advanced. "
+    "Focus on JEE/BITSAT level."
 )
 
 
 class AIService:
-    def __init__(self, api_key: str):
+    def __init__(self, api_key: str, anthropic_key: str = ""):
         self.api_key = api_key
+        self.anthropic_key = anthropic_key
 
     def ask_tutor(self, message: str, context: dict | None = None) -> str:
         history = self._normalize_history((context or {}).get("history"))
@@ -61,6 +68,42 @@ class AIService:
             delta = chunk.choices[0].delta.content if chunk.choices else None
             if delta:
                 yield delta
+
+    def stream_claude(
+        self,
+        message: str,
+        context: dict | None = None,
+        *,
+        model: str = "claude-sonnet-4-20250514",
+        max_tokens: int = 1000,
+    ) -> Iterable[str]:
+        history = self._normalize_history((context or {}).get("history"))
+        if not self.anthropic_key or Anthropic is None:
+            fallback = (
+                "Chem Explorer H tutor is offline. "
+                "Set ANTHROPIC_API_KEY on the Flask server + `pip install anthropic`. "
+                "Until then: break concepts into primitives, cite hybridization/VSEPR, "
+                "then escalate to electron effects and stereochemistry when needed.\n"
+            )
+            for token in fallback.split(" "):
+                yield token + " "
+            return
+
+        client = Anthropic(api_key=self.anthropic_key)
+        claude_messages: list[dict] = [{"role": m["role"], "content": m["content"]} for m in history]
+        payload = {"question": message, "context": {k: v for k, v in (context or {}).items() if k != "history"}}
+        claude_messages.append({"role": "user", "content": json.dumps(payload)})
+
+        with client.messages.stream(
+            max_tokens=max_tokens,
+            model=model,
+            system=SYSTEM_PROMPT + "\nPrefer markdown-style emphasis when helpful (**bold**, `inline code`).",
+            messages=claude_messages,
+            temperature=0.35,
+        ) as stream:
+            for delta in stream.text_stream:
+                if delta:
+                    yield delta
 
     @staticmethod
     def _normalize_history(history: list[dict] | None) -> list[dict]:
