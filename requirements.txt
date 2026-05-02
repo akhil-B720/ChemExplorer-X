@@ -1,4 +1,6 @@
-flask
+Flask
+gunicorn
 requests
+rdkit-pypi
+numpy
 openai
-rdkit
