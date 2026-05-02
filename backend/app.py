@@ -5,9 +5,9 @@ from pathlib import Path
 
 from flask import Flask, jsonify, send_from_directory
 
-from routes.analysis import analysis_bp
-from routes.chat import chat_bp
-from routes.quiz import quiz_bp
+from backend.routes.analysis import analysis_bp
+from backend.routes.chat import chat_bp
+from backend.routes.quiz import quiz_bp
 
 
 def create_app() -> Flask:

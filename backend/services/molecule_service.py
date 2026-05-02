@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from dataclasses import dataclass
 
-from services.pubchem_service import PubChemService
+from backend.services.pubchem_service import PubChemService
 
 try:
     from rdkit import Chem
