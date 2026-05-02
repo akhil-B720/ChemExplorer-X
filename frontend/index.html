@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ChemExplorer X</title>
+  <link rel="stylesheet" href="styles.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/3Dmol/2.1.0/3Dmol-min.js" defer></script>
+  <script src="https://unpkg.com/smiles-drawer@2.1.4/dist/smiles-drawer.min.js" defer></script>
+  <script src="app.js" type="module" defer></script>
+</head>
+<body data-theme="dark">
+  <div class="bg-orbs"></div>
+  <div class="particles" id="particles"></div>
+  <header class="top-nav glass">
+    <div class="brand">ChemExplorer X</div>
+    <div class="right-controls">
+      <button id="themeToggle" class="ghost-btn">Toggle Theme</button>
+      <a href="https://github.com/akhil-B720" target="_blank" rel="noreferrer">GitHub</a>
+      <a href="https://www.linkedin.com/in/akhil-godekar-682b17384" target="_blank" rel="noreferrer">LinkedIn</a>
+    </div>
+  </header>
+
+  <main>
+    <section id="landing" class="page active">
+      <div class="hero glass">
+        <h1 id="heroTitle">ChemExplorer X</h1>
+        <p>Explore molecules. Understand chemistry. Visually.</p>
+        <div class="analyze-form">
+          <input id="queryInput" placeholder="Enter SMILES or compound name..." />
+          <button id="analyzeBtn">Analyze</button>
+        </div>
+        <p class="hint">Try: dopamine, caffeine, ibuprofen, CC(O)C(=O)O</p>
+      </div>
+
+      <div class="landing-grid">
+        <article class="glass profile">
+          <h3>Akhil</h3>
+          <p>AI/ML Engineer | Building Intelligent Systems</p>
+          <div class="links">
+            <a href="https://github.com/akhil-B720" target="_blank" rel="noreferrer">github.com/akhil-B720</a>
+            <a href="https://www.linkedin.com/in/akhil-godekar-682b17384" target="_blank" rel="noreferrer">linkedin.com/in/akhil-godekar-682b17384</a>
+          </div>
+        </article>
+        <article class="glass">
+          <h3>Demo Molecule: Dopamine</h3>
+          <div id="demoViewer" class="viewer"></div>
+        </article>
+      </div>
+    </section>
+
+    <section id="dashboard" class="page">
+      <div class="glass summary" id="summaryPanel"></div>
+      <div class="tabs glass" id="tabsWrap">
+        <button class="tab-btn active" data-tab="structure">Structure</button>
+        <button class="tab-btn" data-tab="chirality">Chirality Explained</button>
+        <button class="tab-btn" data-tab="groups">Functional Groups</button>
+        <button class="tab-btn" data-tab="compare">Molecule Comparison</button>
+        <button class="tab-btn" data-tab="quiz">Quiz System</button>
+        <button class="tab-btn" data-tab="chat">AI Chatbot</button>
+        <span id="tabIndicator" class="tab-indicator"></span>
+      </div>
+      <div class="tab-content">
+        <div class="tab-panel active" id="tab-structure">
+          <div class="panel-controls">
+            <label>Style</label>
+            <select id="styleSelector">
+              <option value="stick">Stick</option>
+              <option value="ballstick">Ball-and-stick</option>
+              <option value="sphere">Spacefill</option>
+            </select>
+          </div>
+          <div id="mainViewer" class="viewer large"></div>
+        </div>
+        <div class="tab-panel" id="tab-chirality">
+          <div id="chiralityCards" class="cards"></div>
+        </div>
+        <div class="tab-panel" id="tab-groups">
+          <div class="panel-controls">
+            <label>Functional Group</label>
+            <select id="groupSelector"></select>
+            <button id="resetGroup" class="ghost-btn">Reset</button>
+          </div>
+          <div id="groupViewer" class="viewer large"></div>
+        </div>
+        <div class="tab-panel" id="tab-compare">
+          <div class="compare-grid">
+            <input id="leftCompare" placeholder="Left molecule" />
+            <input id="rightCompare" placeholder="Right molecule" />
+            <button id="compareBtn">Compare</button>
+          </div>
+          <div id="compareResult" class="cards"></div>
+        </div>
+        <div class="tab-panel" id="tab-quiz">
+          <div class="quiz-controls">
+            <button id="startQuizBtn">Start Adaptive Quiz</button>
+            <div id="quizStats">Score: 0 | XP: 0 | Level: 1 | Streak: 0</div>
+          </div>
+          <div id="quizQuestion" class="glass question-box"></div>
+        </div>
+        <div class="tab-panel" id="tab-chat">
+          <div id="chatWindow" class="chat-window"></div>
+          <div id="chatLoading" class="chat-loading hidden">
+            <span></span><span></span><span></span>
+          </div>
+          <div class="chat-input-row">
+            <input id="chatInput" placeholder="Ask ChemExplorer AI..." />
+            <button id="chatSend">Send</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
