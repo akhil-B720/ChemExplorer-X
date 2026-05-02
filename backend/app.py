@@ -15,10 +15,10 @@ def create_app() -> Flask:
     frontend_dir = (base_dir.parent / "frontend").resolve()
 
     app = Flask(
-        __name__,
-        static_folder=str(frontend_dir),
-        template_folder=str(frontend_dir),
-    )
+    __name__,
+    static_folder="frontend",
+    static_url_path=""
+)
 
     app.config["JSON_SORT_KEYS"] = False
     app.config["OPENAI_API_KEY"] = os.environ.get("OPENAI_API_KEY", "")
@@ -27,14 +27,10 @@ def create_app() -> Flask:
     app.register_blueprint(chat_bp, url_prefix="/api")
     app.register_blueprint(quiz_bp, url_prefix="/api")
 
-    
+
 @app.get("/")
 def index():
-    return send_from_directory(frontend_dir, "index.html")
-
-@app.route('/<path:filename>')
-def static_files(filename):
-    return send_from_directory(frontend_dir, filename)
+    return send_from_directory(app.static_folder, "index.html")
 
 @app.get("/dashboard")
 def dashboard():
