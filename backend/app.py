@@ -1,34 +1,32 @@
-from flask import Flask, jsonify
+from flask import Blueprint, request, jsonify
+from backend.services.pubchem_service import PubChemService
 
-from backend.routes.analysis import analysis_bp
-from backend.routes.chat import chat_bp
-from backend.routes.quiz import quiz_bp
+analysis_bp = Blueprint("analysis", __name__)
 
+@analysis_bp.route("/analyze", methods=["POST"])
+def analyze():
+    try:
+        data = request.get_json()
+        print("DEBUG INPUT:", data)
 
-def create_app():
-    app = Flask(
-        __name__,
-        static_folder="../frontend",   # IMPORTANT
-        static_url_path=""
-    )
+        if not data:
+            return jsonify({"error": "No JSON received"}), 400
 
-    app.register_blueprint(analysis_bp, url_prefix="/api")
-    app.register_blueprint(chat_bp, url_prefix="/api")
-    app.register_blueprint(quiz_bp, url_prefix="/api")
+        query = data.get("query") or data.get("smiles") or data.get("compound")
 
-    @app.route("/")
-    def index():
-        return app.send_static_file("index.html")
+        if not query:
+            return jsonify({"error": "No query provided"}), 400
 
-    @app.route("/dashboard")
-    def dashboard():
-        return app.send_static_file("dashboard.html")
+        service = PubChemService()
+        result = service.fetch_by_name(query)
 
-    @app.route("/health")
-    def health():
-        return jsonify({"status": "ok"})
+        print("DEBUG RESULT:", result)
 
-    return app
+        if not result:
+            return jsonify({"error": "Molecule not found"}), 400
 
+        return jsonify(result)
 
-app = create_app()
+    except Exception as e:
+        print("ERROR:", str(e))
+        return jsonify({"error": str(e)}), 500
