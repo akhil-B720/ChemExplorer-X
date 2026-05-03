@@ -663,13 +663,29 @@ function renderMolError(payload) {
   `;
 }
 
+function escapeHtmlSafe(s) {
+  return escapeHtml(String(s ?? ""));
+}
+
 function renderMolOk(a) {
+  const pc = a.pubchem;
+  let pubChemBlock = "";
+  if (pc) {
+    pubChemBlock = `
+    <div class="pubchem-block">
+      <div><span class="prop">PubChem CID:</span> <span class="val">${escapeHtmlSafe(pc.cid ?? "—")}</span></div>
+      <div><span class="prop">PubChem IUPAC:</span> <span class="val">${escapeHtmlSafe(pc.iupac ?? "—")}</span></div>
+      <div><span class="prop">PubChem formula:</span> <span class="val">${escapeHtmlSafe(pc.formula_pubchem ?? "—")}</span></div>
+      <div><span class="prop">PubChem weight:</span> <span class="val">${escapeHtmlSafe(pc.weight_pubchem ?? "—")}</span></div>
+    </div>`;
+  }
   molResult.innerHTML = `
-    <div><span class="prop">SMILES:</span> <span class="val">${a.smiles}</span></div>
-    <div><span class="prop">Formula:</span> <span class="val">${a.formula}</span></div>
-    <div><span class="prop">Mol. weight:</span> <span class="val">${a.weight}</span></div>
-    <div><span class="prop">Source:</span> <span class="val">${a.source}</span></div>
+    <div><span class="prop">SMILES (RDKit):</span> <span class="val">${escapeHtmlSafe(a.smiles)}</span></div>
+    <div><span class="prop">Formula (RDKit):</span> <span class="val">${escapeHtmlSafe(a.formula)}</span></div>
+    <div><span class="prop">Mol. weight (RDKit):</span> <span class="val">${escapeHtmlSafe(a.weight)}</span></div>
+    <div><span class="prop">Source:</span> <span class="val">${escapeHtmlSafe(a.source)}</span></div>
     <div><span class="prop">Chirality:</span> <span class="val">${a.chirality?.is_chiral ? "Chiral" : "Achiral"} (${a.chirality?.count || 0} centers)</span></div>
+    ${pubChemBlock}
   `;
 }
 

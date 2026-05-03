@@ -500,6 +500,11 @@ nav {
   font-size: 11px;
   margin-top: 8px;
 }
+.mol-result .pubchem-block {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(192, 132, 252, 0.22);
+}
 
 .mol-loading-hidden {
   display: none;
